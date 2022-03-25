@@ -13,12 +13,12 @@ https://books.agiliq.com/projects/django-admin-cookbook/en/latest/
 
 
 - 블로그 강좌 
-  - 장고 위키독스 : https://wikidocs.net/book/837 
   - https://076923.github.io/posts/#Django  
-  - 예제로 배우는 파이썬 장고 : http://pythonstudy.xyz/Python/Django
-
-
-점프투장고: https://wikidocs.net/book/4223
+  
+  
+- 장고 위키독스 : https://wikidocs.net/book/837 
+- 예제로 배우는 파이썬 장고 : http://pythonstudy.xyz/Python/Django
+- 점프투장고: https://wikidocs.net/book/4223
  
 
 https://developer.mozilla.org/ko/docs/Learn/Server-side/Django
